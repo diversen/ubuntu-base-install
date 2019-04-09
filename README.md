@@ -15,10 +15,12 @@ Includes:
 * mod-php7.x 
 * php7.x-CLI
 * common PHP7 modules
-* Composer
-* wget, rsync, lynx
+* php composer
+* vim, wget, rsync, lynx, git, pandoc
 * nodejs 7.x or 10.x
-
+* sets default editor to vim
+* Adds a /home/user/bin dir to current user.
+* Adds above bin dir to path
 
 # Install: 
 

@@ -2,18 +2,18 @@
 
 Run the install script: 
 
-		sudo ./install.sh
+	sudo ./install.sh
 
 # Secure MySQL
 
-		sudo mysql_secure_install
+	sudo mysql_secure_install
 
 # Fix root password
 
 Run this in order to fix easy access to localhost: 
 
-		sudo mysql
+	sudo mysql
 	
-		ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'test'
+	ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY 'test'
 
 
