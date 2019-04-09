@@ -6,7 +6,9 @@ Run the install script:
 
 # Secure MySQL
 
-		mysql_secure_install
+		sudo mysql_secure_install
+
+# Fix root password
 
 Run this in order to fix easy access to localhost: 
 
