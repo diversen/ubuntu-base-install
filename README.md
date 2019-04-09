@@ -10,9 +10,9 @@ Includes:
 * MySQL-server
 * mod-php7.x 
 * php7.x-CLI
-* common PHP7 modules
+* common php7.x modules
 * php composer
-* vim, wget, rsync, lynx, git, pandoc
+* vim, wget, rsync, lynx, git, pandoc, build-essential
 * nodejs 7.x or 10.x
 * Adds a /home/user/bin dir to current user.
 * Adds above bin dir to path
