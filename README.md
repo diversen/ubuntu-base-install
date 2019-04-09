@@ -30,10 +30,12 @@ Includes:
 
     cd ubuntu-base-install/16.04
 
+    sudo ./install.sh
+
 or 
 
 	cd ubuntu-base-install/18.04
 
-    ./install.sh
+    sudo ./install.sh
 
 License: MIT
