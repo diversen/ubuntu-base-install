@@ -1,10 +1,12 @@
-# ubuntu-16.04-base-install
+# ubuntu--base-install
 
-Bash script where I try to remember my base install of ubuntu. 
+Bash script where I try to remember my base install of ubuntu.
 
-Currently there is a setup for 16.04 and 18.04. 
+Works nicely if you want to setup a LAMP server that is not 
 
+bloated. E.g. after a Vagrant install of Ubuntu.  
 
+See: [16.04](16.04) or [18.04](18.04)
 
 Includes: 
 
@@ -16,7 +18,6 @@ Includes:
 * wget, rsync, lynx
 * nodejs 7.x or 10.x
 
-Full listing. See: [16.04](16.04) or [18.04](18.04)
 
 Install: 
 
@@ -24,7 +25,12 @@ Install:
 
 Usage: 
 
-    cd ubuntu-16.04-base-install
+    cd ubuntu-base-install/16.04
+
+or 
+
+		cd ubuntu-base-install/18.04
 
     ./install.sh
+
 
